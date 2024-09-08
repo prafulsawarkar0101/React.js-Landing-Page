@@ -96,6 +96,12 @@
     border-radius: 4px;
     
 }
+.stataButton:hover{
+    cursor: pointer;
+}
+.stataButtonScrools:hover{
+    cursor: pointer;
+}
 .stataButtonScrools{
     display: flex;
     border-radius: 4px;

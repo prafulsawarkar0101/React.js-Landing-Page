@@ -17,7 +17,7 @@ export default function Welcome() {
              <h6>Order Sync Successful!</h6>
          </div>
          <p>Your order details from the last 30 days have been successfully synced. Check them out now!</p>
-         <button className="blackButton">Explore Your Orders</button>
+         <button className="blackButton cursorPointer">Explore Your Orders</button>
          
      </div>
      <div className="welcomeCard secondCardWelcome">
@@ -27,7 +27,7 @@ export default function Welcome() {
              <h6>Customize Customer Notification</h6>
          </div>
          <p>Tailor Your Email Experience: Set the Sender Email and Choose Notification Triggers</p>
-         <button className="blackButton">Configure Notifications</button>
+         <button className="blackButton cursorPointer">Configure Notifications</button>
 
      </div>
      <div className="welcomeCard thirdCardWelcome">
@@ -39,8 +39,8 @@ export default function Welcome() {
          <p>Include the <a href="">Link</a> to Your Store's Navigation Menu.</p>
          <div className="buttonCollection">
              
-             <button className="whiteButton">Copy Link</button> <b></b>
-             <button className="blackButton">Go To Navigation Menu</button>
+             <button className="whiteButton cursorPointer">Copy Link</button> <b></b>
+             <button className="blackButton cursorPointer">Go To Navigation Menu</button>
          </div>
 
      </div>

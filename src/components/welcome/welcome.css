@@ -17,6 +17,7 @@
 .welcomeCards{
     display: flex;
     width: fit-content;
+    border-bottom: 1rem;
 
 }
 .welcomeCard{
@@ -26,6 +27,7 @@
     margin: 0 4px;
     border: 1px solid gray;
     border-radius: 13px;
+
   
 
 

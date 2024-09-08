@@ -119,7 +119,7 @@ export default function Statistics() {
                         <p>There are 8 shipments that have been in out for delivery for more than 3 days.</p>
                         <p>  There are 5 shipments in exception right now</p>
                         <p>  The maximum chargebacks are from Miami.</p>
-                        <button className="whiteButton addMarding">Check Orders Page</button>
+                        <button className="whiteButton addMarding cursorPointer">Check Orders Page</button>
 
                     </div>
                     <div className="stataCard3">

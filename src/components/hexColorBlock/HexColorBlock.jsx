@@ -43,9 +43,9 @@ export default function HexColorBlock() {
             </div>
             <div className="buttonCollection addMargin ">
             
-                <button className="whiteButton marginRight">Priview</button>
+                <button className="whiteButton marginRight cursorPointer">Priview</button>
               
-                <button className="blackButton">Apply Colors</button>
+                <button className="blackButton cursorPointer" >Apply Colors</button>
             </div>
          
         </div>
@@ -54,7 +54,7 @@ export default function HexColorBlock() {
                 <h1>Exclusive Onboarding Support for High-Volume Brands</h1>
                 <p>Unlock personalized guidance! Book a one-on-one 
                     onboarding call to streamline your experience.</p>
-                    <button className="blackButton">Schedule A Call</button> 
+                    <button className="blackButton cursorPointer">Schedule A Call</button>  
 
             </div>
             <div className="columnCardofLastBlock2">
@@ -69,7 +69,7 @@ export default function HexColorBlock() {
                
                
               </div>
-                    <button className="blackButton">Explore Integration</button> 
+                    <button className="blackButton cursorPointer">Explore Integration</button> 
 
             </div>
 
@@ -82,8 +82,8 @@ export default function HexColorBlock() {
            <textarea  value = "Value" name="html link" id=""></textarea>
            <div className="buttonCollection">
             
-            <button className="whiteButton marginRight">Preview</button>
-            <button className="blackButton">Apply Changes</button>
+            <button className="whiteButton marginRight cursorPointer">Preview</button>
+            <button className="blackButton cursorPointer">Apply Changes</button>
         </div>
 
         </div>

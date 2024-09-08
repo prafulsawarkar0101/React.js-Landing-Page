@@ -35,11 +35,11 @@ export default function Navbar() {
             <span className="material-icons">search</span>
             <input className="mySearch" type="text" placeholder="Search"></input>
         </div>
-        <div className="icon">
+        <div className="icon cursorPointer">
             <span className="material-symbols-outlined">person</span>
             Account
         </div>
-        <div className="icon">
+        <div className="icon cursorPointer">
             <span className="material-symbols-outlined">settings</span>
             Settings
         </div>

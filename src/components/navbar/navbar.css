@@ -8,7 +8,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #fff;
-    padding: 10px 20px;
+    /* padding: 10px 20px; */
     border-bottom: 1px solid #8A8A8A;
     height: 56px;
     position: sticky;
@@ -28,7 +28,7 @@ body {
     color: #4A4A4A;
     font-size: 14px;
     position: relative;
-    font-weight: bold;
+    font-weight: 650;
 }
 
 .navbar .nav-left a:hover {
@@ -48,6 +48,7 @@ body {
     height: 2px;
     background-color: #6200ee;
 }
+
 
 .navbar .nav-right {
     display: flex;
@@ -120,7 +121,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-right: 20px;
-    font-weight: bold;
+    font-weight: 650;
     color: #4A4A4A;
     font-size: 14px;
 
@@ -129,7 +130,7 @@ body {
 
 .myDropDown,
 .dropdown :hover {
-    /* cursor: pointer; */
+    cursor: pointer;
 }
 
 .burger-menu {
