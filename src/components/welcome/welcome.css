@@ -1,0 +1,101 @@
+.welcomeSection{
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem 6rem;
+    /* flex-direction:; */
+    align-items: start;
+    justify-content: start;
+    background-color: #FFFFFF;
+
+}
+.welcomeSection > h1{
+    margin: 1rem;
+    font-weight: 700;
+    font-size: 24px;
+
+}
+.welcomeCards{
+    display: flex;
+    width: fit-content;
+
+}
+.welcomeCard{
+    width: 332px;
+    height: 148px;
+    padding: 24px 16px;
+    margin: 0 4px;
+    border: 1px solid gray;
+    border-radius: 13px;
+  
+
+
+}
+.welcomeCard > h6 {
+    font-size: 14px;
+    margin: 8px;
+    height: 20px;
+
+}
+.welcomeCard > p {
+    font-size: 13px;
+    margin: 8px 8px 40px 8px ;
+    height: 40px;
+
+}
+
+.blackButton{
+
+    background-color: #303030;
+    /* width: 115px; */
+    /* height: 16px; */
+    font-size: 12px;
+    color: white;
+    padding: 4px 8px;
+    font-weight: 500;
+    border-radius: 6px;
+    border:  1px solid #303030 ;
+
+}
+.whiteButton{
+
+    background-color: #FFFFFF;
+    /* width: 115px; */
+    /* height: 16px; */
+    font-size: 12px;
+    color: #303030;
+    padding: 4px 8px;
+    font-weight: 500;
+    border-radius: 6px;
+    border:  1px solid #303030 ;
+
+}
+
+.blackButton, :hover {
+/* cursor: pointer; */
+}
+.whiteButton :hover {
+/* cursor: pointer; */
+}
+
+.flexRowIcon{
+    display: flex;
+    align-items: center;
+    height: 20px;
+    font-size: 20px;
+    margin: 0 8px  ;
+  
+}
+.secondCardWelcome{
+    background-color: #FFF8DB;
+
+}
+.secondCardWelcome > h6, span{
+    color: #5E4200;
+}
+
+.flexRowIcon > span{
+    margin-right: 8px;
+}
+.thirdCardWelcome{
+    background-color: #EAF4FF;
+}

@@ -1,0 +1,190 @@
+.lastBlock{
+    background-color: #fff;
+    display: flex ;
+    flex-direction: column;
+    padding: 1.5rem 6rem;
+    padding-bottom: 6rem;
+
+}
+.lastBlock > h1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #4A4A4A;
+}
+.lastBlocksContainers{
+    height: 400px;
+    display: flex;
+}
+.firstCol{
+    height: 100%;
+    width: 332px;
+    border: 1px solid gray;
+    margin: 1rem 0.5rem;
+    border-radius: 16px ;
+    padding: 1rem;
+}
+.secondCol{
+    width: 448px;
+    height: 408px;
+    /* border: 1px solid gray; */
+
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.columnCardofLastBlock1{
+    height: 35%;
+    margin: 1rem 0.5rem;
+    border: 1px solid gray;
+    padding: 1rem;
+    border-radius: 16px;
+
+
+
+
+}
+.columnCardofLastBlock2{
+    height: 75%;
+    margin: 1rem 0.5rem;
+    border: 1px solid gray;
+    padding: 1rem;
+    border-radius: 16px;
+
+
+
+}
+.thirdCol{
+    width: 332px;
+    height: 100%;
+    border: 1px solid gray;
+    margin: 1rem 0.5rem;
+    border-radius: 16px;
+    padding: 1rem;
+}
+
+
+.firstCol > h1{
+    font-size: 14px;
+    font-weight: 650;
+    color: #4A4A4A;
+
+}
+
+.firstCol > p{
+    font-size: 13px;
+    font-weight: 450;
+    color: #4A4A4A;
+
+
+}
+
+.firstCardHashColorBlock{
+    display: flex;
+    flex-direction: column;
+    max-height: 56px !important;
+    width: 100%;
+    margin: 1rem 0 ;
+
+
+} 
+.firstCardHashColorBlock > p{
+    font-size: 13px;
+    font-weight: 450;
+
+}
+.makeRowHashColor{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+
+}
+.makeRowHashColor > input{
+    width: 70%;
+    height: 28px;
+    border-radius: 6px;
+    margin: 4px 0j;
+    border: 1px solid gray;
+    padding: 2px 6px;
+
+}
+
+.ofSomeColor1{
+    background-color: #FF9898;
+    width: 20%;
+    height: 32px;
+    border-radius: 6px ;
+}
+.ofSomeColor2{
+    background-color: #571010;
+    width: 20%;
+    height: 32px;
+    border-radius: 6px ;
+}
+.ofSomeColor3{
+    background-color: #FFEAEA;
+    width: 20%;
+    height: 32px;
+    border-radius: 6px ;
+}
+
+.addMargin{
+    margin-top: 3rem;
+}
+
+.columnCardofLastBlock1 > h1 {
+    font-size: 14px;
+    font-weight: 650;
+}
+.columnCardofLastBlock1 > p {
+    font-size: 13px;
+    font-weight: 450;
+}
+
+.columnCardofLastBlock2 > h1 {
+    font-size: 14px;
+    font-weight: 650;
+}
+.columnCardofLastBlock2 > p {
+    font-size: 13px;
+    font-weight: 450;
+}
+
+.iconCollection > img{
+    height: 36px;
+    width: 36px;
+    margin: 1rem 0.5rem;
+}
+
+.thirdCol > h1 {
+    font-size: 14px;
+    font-weight: 650;
+}
+.thirdCol > h2 {
+    font-size: 13px;
+    font-weight: 450;
+    margin-top: 2rem;
+}
+.thirdCol > p {
+    font-size: 13px;
+    font-weight: 450;
+}
+
+.thirdCol > textarea{
+
+    height: 128px;
+    padding: 1rem;
+    max-width: 90%;
+    min-width: 90%;
+
+    max-height: 116px;
+    margin-bottom: 3rem;
+
+ 
+}
+
+.marginRight{
+    margin-right: 0.7rem;
+}
